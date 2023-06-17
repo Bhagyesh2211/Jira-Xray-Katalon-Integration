@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KJP-T1_HealthCare Application E2E Test Case</name>
+   <tag>KJP-T1, KJP-R2</tag>
+   <comment></comment>
+   <testCaseGuid>5e05d8a3-e36b-4f5b-a3d5-a32802803e3d</testCaseGuid>
+</TestCaseEntity>
